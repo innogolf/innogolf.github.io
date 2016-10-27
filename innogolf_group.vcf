@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Group;Innogolf;
+FN:Innogolf Group
+TITLE:Office
+TEL;TYPE=WORK,VOICE:+65-63429 282
+TEL;TYPE=WORK,FAX:+65-6636 3179
+TEL;TYPE=WORK,MOBILE:
+ADR;TYPE=WORK:;;81 Ubi Avenue 4 #06-18 UB.One 
+Singapore 408830;;;;
+LABEL;TYPE=WORK:81 Ubi Avenue 4 #06-18 UB.One 
+Singapore 408830
+
+
+
+
+EMAIL;TYPE=PREF,INTERNET:enquiry@innogolf.com.sg
+URL:http://www.innogolf.com.sg
+REV:2013-08-18T09:42:39+00:00Z
+END:VCARD
